@@ -4,7 +4,11 @@
 [![Python 3.14+](https://img.shields.io/badge/python-3.14+-blue.svg)](https://www.python.org/downloads/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/vishal-kumaar/AI-Engineering/graphs/commit-activity)
 
-This repository serves as a professional-grade documentation and implementation hub for mastering **AI Engineering**. Unlike traditional research-heavy approaches, this journey is strictly aligned with building **production-ready, scalable, and reliable AI systems.**
+![AI Engineering](./AI_Engineering.png)
+
+This repository serves as my personal **documentation and implementation lab** for mastering **AI Engineering**. While traditional approaches often lean heavily towards research, this learning journey is strictly aligned with the practical challenge of building **production-ready, scalable, and reliable AI systems.**
+
+By documenting each phase of my 12-module roadmap, I am focused on bridging the gap between theoretical machine learning and real-world engineering excellence. This space tracks my transition into architecting AI solutions that are not just "working models", but stable and scalable products.
 
 ---
 

@@ -49,7 +49,7 @@ Based on the structured curriculum, this roadmap focuses on the transition from 
 ## 📈 Current Progress
 
 - [x] **Phase 00:** Repository Architecture & Roadmap Setup
-- [ ] **Phase 01:** Math & Statistics - Foundations of Evaluation
+- [x] **Phase 01:** Math & Statistics - Foundations of Evaluation
 - [ ] **Phase 02:** DSA for AI Engineering - High-Performance 
 - [ ] **Phase 03:** Machine Learning - Models as Decision Systems
 - [ ] **Phase 04:** Deep Learning - Scaling & Failure Modes
